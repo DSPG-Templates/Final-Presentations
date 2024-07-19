@@ -5,10 +5,10 @@ run-name: Running Quarto Render on Markdown Files
 on: [push]
 
 env:
-  MARKDOWN_DOCUMENT: Weekly_Team_Blog.qmd
-  QMD_TITLE: \"Housing and AI Week No\" \"Community Capitals Week No\", \"Iowa Zoning Guide Week No\"
+  MARKDOWN_DOCUMENT: Final_Team_Blog.qmd
+  QMD_TITLE: \"Housing and AI Final Blog\" \"Community Capitals Final Blog\", \"Iowa Zoning Guide Final Blog\"
   QMD_AUTHOR: \[\"Harun Celik\"\] \[\"Housing and AI\"\] \[\"Community Capitals\"\], \[\"Iowa Zoning Guide\"\]
-  QMD_TAGS: \[\"Week No\"\]
+  QMD_TAGS: \[\"Final Blog\"\]
 
 jobs:
   install-dependencies:
