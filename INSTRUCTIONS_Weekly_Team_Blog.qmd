@@ -3,7 +3,7 @@ title: "Project Final Blogs"
 author: [Harun Celik]
 date: "7/19/2024"
 format: 
-  markdown_github:
+  gfm:
     output-file: "README"
     output-ext: "md"
 ---
