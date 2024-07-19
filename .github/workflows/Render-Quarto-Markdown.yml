@@ -6,9 +6,9 @@ on: [push]
 
 env:
   MARKDOWN_DOCUMENT: Final_Team_Blog.qmd
-  QMD_TITLE: \"Housing and AI Final Blog\" \"Community Capitals Final Blog\", \"Iowa Zoning Guide Final Blog\"
+  QMD_TITLE: \"Housing and AI Final Presentation\" \"Community Capitals Final Presentation\", \"Iowa Zoning Guide Final Presentation\"
   QMD_AUTHOR: \[\"Harun Celik\"\] \[\"Housing and AI\"\] \[\"Community Capitals\"\], \[\"Iowa Zoning Guide\"\]
-  QMD_TAGS: \[\"Final Blog\"\]
+  QMD_TAGS: \[\"Final Presentation\"\]
 
 jobs:
   install-dependencies:
