@@ -1,8 +1,8 @@
 ---
-title: "- Week Two"
+title: "- Final Presentation"
 author: ["Housing and AI", "Community Capitals", "Iowa Zoning Guide"]
 date: "6/7/2024"
-categories: ["Week Two"]
+categories: ["Final Presentation"]
 format: html
 ---
 
